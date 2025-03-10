@@ -153,7 +153,7 @@ const Hero = () => {
         
 
       </Slider>
-      hero
+      
     </div>
   );
 };
